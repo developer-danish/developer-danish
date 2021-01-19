@@ -58,6 +58,7 @@
   justify-content: center;
   align-items: center;
   text-align: center;
+  overflow: hidden;
 }
 .section-1 div {
   /* margin-top: -20px; */
@@ -439,7 +440,6 @@ margin-top: 20px;
     font-weight: bold;
   } */
   .collapse {
-    transition: ease all 0.5s;
     margin-top: 10px;
     /* box-shadow: 4px 6px 8px rgba(0, 0, 0, 0.3); */
     /* background-color: #ffffff; */
@@ -594,7 +594,6 @@ margin-top: 20px;
     border-radius: 10%;
   }
   .collapse {
-    transition: ease all 0.5s;
     margin-top: 10px;
     box-shadow: 4px 6px 8px rgba(0, 0, 0, 0.3);
      background-color: #ffffff; 
@@ -776,7 +775,6 @@ margin-top: 20px;
     border-radius: 10%;
   }
   .collapse {
-    transition: ease all 0.5s;
     margin-top: 10px;
     box-shadow: 4px 6px 8px rgba(0, 0, 0, 0.3);
      background-color: #ffffff; 
@@ -984,7 +982,6 @@ margin-top: 20px;
     border-radius: 10%;
   }
   .collapse {
-    transition: ease all 0.5s;
     margin-top: 10px;
     box-shadow: 4px 6px 8px rgba(0, 0, 0, 0.3);
     background-color: #ffffff; 
@@ -993,7 +990,6 @@ margin-top: 20px;
   }
   .collapse ul li a {
      color: black;
-     transition: all ease 0.5s;
   }
   .collapse ul li a:hover {
     color: rgb(53, 53, 129);
