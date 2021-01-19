@@ -57,6 +57,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  text-align: center;
 }
 .section-1 div {
   /* margin-top: -20px; */
