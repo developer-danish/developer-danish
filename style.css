@@ -1005,6 +1005,7 @@ margin-top: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
   }
   
   .section-1 div {
